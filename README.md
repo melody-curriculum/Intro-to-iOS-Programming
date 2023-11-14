@@ -1,6 +1,6 @@
 # Swift
 
-##Installation
+## Installation
 - OSX is an operating system made by Apple for Mac computers.
 - Need OSX to run iOS apps.
  
@@ -16,11 +16,11 @@ Mac:
 
 - Xcode: complete piece of software that allows you to design, code, and submit an app. 
 
-##Xcode
+## Xcode
 - Let's take a look at Xcode and how it works. Let's also work with the **storyboard**. 
 - Let's discuss **Auto Layout**. 
 
-##Swift
+## Swift
 
 - New language announced in June 2014. 
 - Playgrounds allow you to run code immediately and see the results. 
